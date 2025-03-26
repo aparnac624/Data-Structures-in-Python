@@ -2,10 +2,10 @@
 This repository contains Python exercises that focus on basic data structures: Lists, Dictionaries, Sets, and Tuples. The exercises cover common operations on these data structures.
 
 Table of Contents
-1. List Operations
-2. Dictionary Operations
-3. Set Operations
-4. Tuple Operations
+    1. List Operations
+    2. Dictionary Operations
+    3. Set Operations
+    4. Tuple Operations
 
 
 1. List Operations
