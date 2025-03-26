@@ -16,23 +16,23 @@ for i in numbers:
     print(i)
 
 
-Output :
-Original list:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-Updated list:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
-Elements in list are below: 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
+# Output :
+# Original list:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# Updated list:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+# Elements in list are below: 
+# 1
+# 2
+# 3
+# 4
+# 5
+# 6
+# 7
+# 8
+# 9
+# 10
+# 11
+# 12
+# 13
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -47,9 +47,9 @@ dict1['phone'] = '1234567890'
 print("Updated dictionary: ",dict1)
 
 
-Output :
-Original dictionary:  {'name': 'John', 'age': 25, 'address': 'New York'}
-Updated dictionary:  {'name': 'John', 'age': 25, 'address': 'New York', 'phone': '1234567890'}
+# Output :
+# Original dictionary:  {'name': 'John', 'age': 25, 'address': 'New York'}
+# Updated dictionary:  {'name': 'John', 'age': 25, 'address': 'New York', 'phone': '1234567890'}
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -69,10 +69,10 @@ set1.remove(3)
 print("Updated set after removing value 3: ",set1)
 
 
-Output :
-Original set:  {1, 2, 3, 4, 5}
-Updated set after adding value 6:  {1, 2, 3, 4, 5, 6}
-Updated set after removing value 3:  {1, 2, 4, 5, 6}
+# Output :
+# Original set:  {1, 2, 3, 4, 5}
+# Updated set after adding value 6:  {1, 2, 3, 4, 5, 6}
+# Updated set after removing value 3:  {1, 2, 4, 5, 6}
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -89,7 +89,7 @@ length = len(tuple1)
 print("Length of tuple =",length)
 
 
-Output :
-Original tuple:  (1, 2, 3, 4)
-<class 'tuple'>
-Length of tuple = 4
+# Output :
+# Original tuple:  (1, 2, 3, 4)
+# <class 'tuple'>
+# Length of tuple = 4
