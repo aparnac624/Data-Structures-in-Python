@@ -7,7 +7,9 @@ Table of Contents
 3. Set Operations
 4. Tuple Operations
 
+
 1. List Operations
+--------------------------------------------------------
 Q1: Create a list of 5 random numbers and print the list.
 In this exercise, we simply created a list from range 1 to 10 and printed the original list
 
@@ -30,6 +32,7 @@ for i in numbers:
     print(i)
 
 2. Dictionary Operations
+------------------------------------------------------------------
 Q1: Create a dictionary with keys 'name', 'age', and 'address' and values 'John', 25, and 'New York' respectively.
 We create a dictionary with the provided key-value pairs.
 
@@ -43,6 +46,7 @@ dict1['phone'] = '1234567890'
 print("Updated dictionary: ",dict1)
 
 3. Set Operations
+---------------------------------------------------------------
 Q1: Create a set with values 1, 2, 3, 4, and 5.
 We create a set using curly braces {}.
 
@@ -62,6 +66,7 @@ set1.remove(3)
 print("Updated set after removing value 3: ",set1)
 
 4. Tuple Operations
+--------------------------------------------------------------------
 Q1: Create a tuple with values 1, 2, 3, and 4.
 We define a tuple using parentheses ().
 
